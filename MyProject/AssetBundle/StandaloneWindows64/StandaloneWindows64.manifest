@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1537339702
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asil
+      Dependencies:
+        Dependency_0: shaders
+    Info_1:
+      Name: loadingwindow
+      Dependencies: {}
+    Info_2:
+      Name: startpanelwindow
+      Dependencies:
+        Dependency_0: ugui
+    Info_3:
+      Name: shaders
+      Dependencies: {}
+    Info_4:
+      Name: binary
+      Dependencies: {}
+    Info_5:
+      Name: sounds
+      Dependencies: {}
+    Info_6:
+      Name: ugui
+      Dependencies: {}
+    Info_7:
+      Name: assetbundleconfig
+      Dependencies: {}

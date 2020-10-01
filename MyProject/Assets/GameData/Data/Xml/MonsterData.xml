@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MonsterData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AllMonster ID="0" Name="测试怪物" OutLook="Assets/GameData/Prefabs/Model/Attack/asil.prefab" Level="1">
+    <AllString>你好</AllString>
+    <AllString>我好</AllString>
+    <AllString>大家好</AllString>
+    <AllData>
+      <Name>Name0</Name>
+      <ID>0</ID>
+    </AllData>
+    <AllData>
+      <Name>Name1</Name>
+      <ID>1</ID>
+    </AllData>
+    <AllData>
+      <Name>Name2</Name>
+      <ID>2</ID>
+    </AllData>
+    <AllDataList>
+      <Name>Name0</Name>
+      <ID>0</ID>
+    </AllDataList>
+    <AllDataList>
+      <Name>Name1</Name>
+      <ID>1</ID>
+    </AllDataList>
+    <AllDataList>
+      <Name>Name2</Name>
+      <ID>2</ID>
+    </AllDataList>
+  </AllMonster>
+  <AllMonster ID="1" Name="测试怪物" OutLook="Assets/GameData/Prefabs/Model/Attack/asil.prefab" Level="2">
+    <AllString>你好</AllString>
+    <AllString>我好</AllString>
+    <AllString>大家好</AllString>
+    <AllData>
+      <Name>Name0</Name>
+      <ID>0</ID>
+    </AllData>
+    <AllData>
+      <Name>Name1</Name>
+      <ID>1</ID>
+    </AllData>
+    <AllData>
+      <Name>Name2</Name>
+      <ID>2</ID>
+    </AllData>
+    <AllDataList>
+      <Name>Name0</Name>
+      <ID>0</ID>
+    </AllDataList>
+    <AllDataList>
+      <Name>Name1</Name>
+      <ID>1</ID>
+    </AllDataList>
+    <AllDataList>
+      <Name>Name2</Name>
+      <ID>2</ID>
+    </AllDataList>
+  </AllMonster>
+</MonsterData>

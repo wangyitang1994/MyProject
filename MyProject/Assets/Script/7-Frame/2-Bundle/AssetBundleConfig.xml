@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList Path="Assets/GameData/Data/AssetBundleConfigData/AssetBundleConfig.bytes" ABName="abconfig" AssetName="AssetBundleConfig.bytes" Crc="2635433079" />
+  <ABList Path="Assets/GameData/Prefabs/Model/Attack/asil.prefab" ABName="asil" AssetName="asil.prefab" Crc="1343862470">
+    <ABDependce>shaders</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Data/Binary/MonsterData.bytes" ABName="binary" AssetName="MonsterData.bytes" Crc="1289056854" />
+  <ABList Path="Assets/GameData/Prefabs/UGUI/Window/LoadingWindow.prefab" ABName="loadingwindow" AssetName="LoadingWindow.prefab" Crc="1851032436" />
+  <ABList Path="Assets/GameData/Shaders/benghuai.shader" ABName="shaders" AssetName="benghuai.shader" Crc="2153760648" />
+  <ABList Path="Assets/GameData/Shaders/cloud.shader" ABName="shaders" AssetName="cloud.shader" Crc="4156819275" />
+  <ABList Path="Assets/GameData/Shaders/Skybox.shader" ABName="shaders" AssetName="Skybox.shader" Crc="2040549738" />
+  <ABList Path="Assets/GameData/Shaders/Water.shader" ABName="shaders" AssetName="Water.shader" Crc="3794094069" />
+  <ABList Path="Assets/GameData/Shaders/Xray.shader" ABName="shaders" AssetName="Xray.shader" Crc="2720758644" />
+  <ABList Path="Assets/GameData/Sounds/menusound.mp3" ABName="sounds" AssetName="menusound.mp3" Crc="1701716301" />
+  <ABList Path="Assets/GameData/Sounds/senlin.mp3" ABName="sounds" AssetName="senlin.mp3" Crc="662225670" />
+  <ABList Path="Assets/GameData/Prefabs/UGUI/Window/StartPanelWindow.prefab" ABName="startpanelwindow" AssetName="StartPanelWindow.prefab" Crc="50795332">
+    <ABDependce>ugui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/mao.jpg" ABName="ugui" AssetName="mao.jpg" Crc="377687289" />
+  <ABList Path="Assets/GameData/UGUI/timg.jpg" ABName="ugui" AssetName="timg.jpg" Crc="2379694284" />
+</AssetBundleConfig>

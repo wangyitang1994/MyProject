@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data name = "MonsterData" from = "G_怪物.xlsx" to = "MonsterData.xml">
+    <variable name = "AllMonster" type = "list">
+        <list name = "MonsterBase" sheetname = "怪物配置" mainkey = "ID">
+            <variable name = "ID" col = "ID" type = "int"/>
+            <variable name = "Name" col = "名称" type = "string"/>
+            <variable name = "OutLook" col = "预制路径" type = "string"/>
+            <variable name = "Level" col = "等级" type = "int"/>
+            <variable name = "AllString" col = "对话" type = "listStr" split=";"/>
+            <variable name = "AllData" col = "集合测试" type = "list" split=";">
+                <list name = "TestData" sheetname = "集合数据" split = "_">
+                    <variable name = "Name" col = "名称" type = "string"/>
+                    <variable name = "ID" col = "ID" type = "int"/>
+                </list>
+            </variable>
+            <variable name = "AllDataList" type = "list" foreign = "ID">
+                <list name = "TestData" sheetname = "外键数据">
+                    <variable name = "Name" col = "名称" type = "string"/>
+                    <variable name = "ID" col = "TestID" type = "int"/>
+                </list>
+            </variable>
+        </list>
+    </variable>
+</data>

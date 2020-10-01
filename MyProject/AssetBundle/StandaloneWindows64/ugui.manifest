@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1281019497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1a406df2f0e16d86590fd8ed256ab37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/UGUI/timg.jpg
+- Assets/GameData/UGUI/mao.jpg
+Dependencies: []

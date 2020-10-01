@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Example/7-Frame/7-GameStart.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

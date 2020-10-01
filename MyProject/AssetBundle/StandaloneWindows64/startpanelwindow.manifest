@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 390415551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 235cb475b7a444748b2be60311790963
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df216649878c46f4035df86f35346a95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0cbb26adb8b8aa45a2cc5658bacb26e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8195983d67b38d341aee857fefcf658e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/Prefabs/UGUI/Window/StartPanelWindow.prefab
+Dependencies:
+- D:/W/MyProject/MyProject/Assets/../AssetBundle/StandaloneWindows64/ugui
